@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 ### 🖥️ Portfolio :
 https://freelance.habr.com/freelancers/sha111tan/projects
