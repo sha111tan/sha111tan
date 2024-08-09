@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ---
-###:🖥️ My Portfolio: 
+###🖥️ My Portfolio: 
 https://freelance.habr.com/freelancers/sha111tan/projects
 ---
 ###:hammer_and_wrench: Languages and Tools :
